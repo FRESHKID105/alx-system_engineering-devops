@@ -1,4 +1,2 @@
 #!/bin/bash
-ln -s /bin/ls __ls__
-
-
+-rwxr-xr-x 1 996 992 35 13-symbolic_link

@@ -1,4 +1,2 @@
 #!/bin/bash
-cp -u *html
-
-
+-rwxr-xr-x 1 996 992 26 14-copy_html
